@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Division App\bin\Debug\Division App.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Division App\bin\Debug\Division App.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Division App\bin\Debug\Division App.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Division App\obj\Debug\Division App.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Division App\obj\Debug\Division App.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Division App\obj\Debug\Division App.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Division App\obj\Debug\Division App.pdb
