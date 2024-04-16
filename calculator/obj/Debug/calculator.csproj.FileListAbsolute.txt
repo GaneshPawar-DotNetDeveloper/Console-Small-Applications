@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\last revision\calculator\bin\Debug\calculator.exe.config
+C:\c#b22\add project\basic\last revision\calculator\bin\Debug\calculator.exe
+C:\c#b22\add project\basic\last revision\calculator\bin\Debug\calculator.pdb
+C:\c#b22\add project\basic\last revision\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\calculator\obj\Debug\calculator.exe
+C:\c#b22\add project\basic\last revision\calculator\obj\Debug\calculator.pdb
