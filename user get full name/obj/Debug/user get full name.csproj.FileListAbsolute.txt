@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\last revision\user get full name\bin\Debug\user get full name.exe.config
+C:\c#b22\add project\basic\last revision\user get full name\bin\Debug\user get full name.exe
+C:\c#b22\add project\basic\last revision\user get full name\bin\Debug\user get full name.pdb
+C:\c#b22\add project\basic\last revision\user get full name\obj\Debug\user get full name.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\user get full name\obj\Debug\user get full name.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\user get full name\obj\Debug\user get full name.exe
+C:\c#b22\add project\basic\last revision\user get full name\obj\Debug\user get full name.pdb
