@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Wine shopee\bin\Debug\Wine shopee.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Wine shopee\bin\Debug\Wine shopee.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Wine shopee\bin\Debug\Wine shopee.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Wine shopee\obj\Debug\Wine shopee.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Wine shopee\obj\Debug\Wine shopee.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Wine shopee\obj\Debug\Wine shopee.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Wine shopee\obj\Debug\Wine shopee.pdb
