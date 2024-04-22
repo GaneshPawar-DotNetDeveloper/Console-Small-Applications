@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\last revision\theater arragement\obj\Debug\theater arragement.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\last revision\theater arragement\obj\Debug\theater arragement.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\last revision\theater arragement\bin\Debug\theater arragement.exe.config
+C:\c#b22\add project\basic\last revision\theater arragement\bin\Debug\theater arragement.exe
+C:\c#b22\add project\basic\last revision\theater arragement\bin\Debug\theater arragement.pdb
+C:\c#b22\add project\basic\last revision\theater arragement\obj\Debug\theater arragement.exe
+C:\c#b22\add project\basic\last revision\theater arragement\obj\Debug\theater arragement.pdb
