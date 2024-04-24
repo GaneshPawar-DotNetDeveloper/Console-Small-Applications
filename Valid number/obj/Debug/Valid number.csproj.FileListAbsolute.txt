@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Valid number\bin\Debug\Valid number.exe.config
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Valid number\bin\Debug\Valid number.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Valid number\bin\Debug\Valid number.pdb
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Valid number\obj\Debug\Valid number.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Valid number\obj\Debug\Valid number.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Valid number\obj\Debug\Valid number.exe
+C:\c#b22\add project\basic\C#B16 Start(01-12 To 20-12)\Valid number\obj\Debug\Valid number.pdb
